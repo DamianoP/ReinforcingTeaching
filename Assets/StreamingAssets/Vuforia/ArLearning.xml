@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="dune" size="1.000000 1.000000" />
+    <ImageTarget name="sferaTriangolo" size="1.000000 1.000000" />
+    <ImageTarget name="SINX2Y2FX2Y2" size="1.000000 1.000000" />
+    <ImageTarget name="sella" size="1.000000 1.000000" />
+    <ImageTarget name="seno" size="1.000000 1.000000" />
+    <ImageTarget name="lnx2y2" size="1.000000 1.000000" />
+    <ImageTarget name="mesh3D" size="1.000000 1.000000" />
+    <ImageTarget name="senoPeriodico" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
